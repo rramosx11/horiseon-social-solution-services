@@ -27,13 +27,12 @@ THEN I find a concise, descriptive title
 
 ```
 
-## Link to the website 
+## Link to the website and screenshot of webpage
 
 https://rramosx11.github.io/horiseon-social-solution-services/
 
-<link rel ="screenshot" href ="./">
 
-![Screenshot](/horiseon-social-solution-services/assets/images/horiseon%20screenshot.jpg)
+![Screenshot](https://github.com/rramosx11/horiseon-social-solution-services/blob/main/assets/images/horiseon%20screenshot.jpg)
 
 ## Updates
 
