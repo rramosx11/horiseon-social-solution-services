@@ -33,7 +33,7 @@ https://rramosx11.github.io/horiseon-social-solution-services/
 
 <link rel ="screenshot" href ="./">
 
-![Alt text](/horiseon-social-solution-services/assets/images/horiseon%20screenshot.jpg "Horiseon webpage screenshot")
+![Screenshot](/horiseon-social-solution-services/assets/images/horiseon%20screenshot.jpg "Horiseon webpage screenshot")
 
 ## Updates
 
