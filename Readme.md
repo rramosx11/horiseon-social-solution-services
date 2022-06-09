@@ -1,4 +1,4 @@
-# Descrption 
+# Description 
 
 In this challenge I was tasked with refactoring the code for Horiseon, a financial marketing company. I updated the HTML and CSS in an effort to optimaize the website's code.
 
