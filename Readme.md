@@ -1,5 +1,7 @@
 # Descrption 
 
+In this challenge I was tasked with refactoring the code for Horiseon, a financial marketing company. I updated the HTML and CSS in an effort to optimaize the website's code.
+
 ## User Story
 
 ```
@@ -29,6 +31,10 @@ THEN I find a concise, descriptive title
 
 https://rramosx11.github.io/horiseon-social-solution-services/
 
+<link rel ="screenshot" href ="./">
+
+![Alt text](/horiseon-social-solution-services/assets/images/horiseon%20screenshot.jpg "Horiseon webpage screenshot")
+
 ## Updates
 
 * Changed the title from website to Horiseon
@@ -37,6 +43,7 @@ https://rramosx11.github.io/horiseon-social-solution-services/
 * Removed the extra class titles and adjusted the CSS to condense the code in html and css.
 * Reordered the css to follow the structure of the webpage.
 * Added alt descriptions to the images
-* Fixed the navigation bar
+* Fixed the navigation bar so that when the tab in clicked on the website, the viewer will be redirected to that section of the page. The id was missing for the SEO section.
+
 
 
